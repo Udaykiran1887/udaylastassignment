@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "lab11"
+    ],
+    "java.project.outputPath": "untitled folder",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
